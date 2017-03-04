@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <Button
+        android:text="Cancel"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:id="@+id/button4"
+        android:layout_marginBottom="66dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp" />
+
+    <ImageButton
+        android:layout_width="82dp"
+        android:layout_height="42dp"
+        app:srcCompat="@drawable/camera_icon"
+        android:id="@+id/imageButton"
+        android:layout_weight="0.21"
+        android:layout_above="@+id/button3"
+        android:layout_toEndOf="@+id/datePicker"
+        android:layout_marginStart="80dp" />
+
+    <Button
+        android:text="Ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:layout_above="@+id/button4"
+        android:layout_alignParentStart="true" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:checkedButton="@+id/Male_Female"
+        android:layout_below="@+id/editText3"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="81dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text="Name"
+            android:ems="10"
+            android:id="@+id/editText2"
+            android:layout_alignBottom="@+id/editText3"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="13dp"
+            android:layout_weight="1" />
+    </RadioGroup>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editText5"
+        android:text="Email"
+        android:layout_marginBottom="55dp"
+        android:layout_above="@+id/datePicker"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/editText3"
+        android:text="Phone"
+        android:layout_marginBottom="49dp"
+        android:layout_above="@+id/editText5"
+        android:layout_toStartOf="@+id/imageButton" />
+
+    <DatePicker
+        android:layout_width="123dp"
+        android:layout_height="97dp"
+        android:labelFor="@id/datePicker"
+        android:id="@+id/datePicker"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="16dp"
+        android:layout_above="@+id/button3"
+        android:layout_alignEnd="@+id/button4" />
+
+</LinearLayout>

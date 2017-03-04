@@ -1,0 +1,116 @@
+<resources>
+
+    <string name="gcm_sender_id">561310604781</string>
+
+    <string name="app_name">TickleChat</string>
+    <string name="facebook_app_id">1592527504392182</string>
+    <string name="review_me_on_ticklechat">Review us on TickleChat</string>
+    <string name="no_mail_client">No Email Client</string>
+    <string name="send_mail">Send Email</string>
+
+
+    <string name="fb_login_protocol_scheme">fb1592527504392182</string>
+
+
+    <string name="font_icon">icon-fonts.ttf</string>
+    <string name="font_type_opensans_bold">OpenSans-Bold.ttf</string>
+    <string name="font_type_opensans_regular">OpenSans-Regular.ttf</string>
+    <string name="font_type_opensans_light">OpenSans-Light.ttf</string>
+    <string name="font_type_opensans_semibold">OpenSans-Semibold.ttf</string>
+
+    <!--Navigation drawer naming -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="could_not_create_directory">Image Directory could not be created. Please try after some time</string>
+    <string name="file_size_error">Very large image. Please upload image of max size %1d MB. </string>
+    <string name="user_not_verified">You are not verified. </string>
+
+    <string name="invalid_location">Invalid location found.</string>
+    <string name="default_exeption_text">Oops! some error occurred. Please try again after some time.</string>
+
+
+
+    <!--MENU ITMES-->
+    <string name ="menu_tickle_a_friend">Tickle A Friend</string>
+    <string name ="menu_new_group">New Group</string>
+    <string name ="menu_search_tickler">Search Tickler</string>
+    <string name ="menu_profile">Profile</string>
+    <string name ="menu_status_update">Status Update</string>
+    <string name ="menu_add_sentence">Add Sentence</string>
+    <string name ="menu_submitted_tickles">Submitted Tickles</string>
+    <string name ="menu_setting">Setting</string>
+
+
+    <string name ="menu_subtitle_1">Chat with your friend on tickler</string>
+    <string name ="menu_subtitle_2">Tickle and whole group ticklers you</string>
+    <string name ="menu_subtitle_3">Search for random tickler</string>
+    <string name ="menu_subtitle_4">Let the world see the star</string>
+    <string name ="menu_subtitle_5">Emotions here please</string>
+    <string name ="menu_subtitle_6">Contribute-Popular-Boast-Repeat</string>
+    <string name ="menu_subtitle_7">See your Contributions</string>
+    <string name ="menu_subtitle_8">Tweek Setting</string>
+
+    <string name="internet_connection_error">Internet is either disconnected or very slow.</string>
+    <string name="unexpected_error">Some unexpected error occurred. Please try after some time.</string>
+
+    <string name ="loading">loading....</string>
+
+    <string name ="terms_policies">Terms and Policies</string>
+
+    <!-- Sign-in status messages -->
+    <string name="signed_in_fmt">Signed in as: %s</string>
+
+    <!--HEADERS ITMES-->
+    <string name ="header_ticklers">TickleChat</string>
+
+    <string name="setting_delete_account">Delete Account</string>
+    <string name="setting_logout_account">Logout</string>
+    <string name="setting_enable_notifications">Enable Notifications</string>
+    <string name="setting_delete_confirmation_statments">Delete your account will -\n
+        \n- Delete your account from Tickle
+        \n- Delete your Tickle chat history
+        \n- Delete you from all of your Tickle groups
+        \n- All data would be lost and non-recoverable
+        \n- User would not be able to received regular funny Tickles</string>
+    <string name="delete">Delete</string>
+
+    <string name="failmessage"> Unable to perform operation at this moment. Please try again."</string>
+
+
+    <string name="slide_1_title">Tickle-ing</string>
+    <string name="slide_1_desc">Take a small tour of app before you start Tickle-ing</string>
+
+    <string name="slide_2_title">Tickle menu</string>
+    <string name="slide_2_desc">Start with clicking on Tickle logo on the left top corner for menu button</string>
+
+    <string name="slide_3_title">Explore menu</string>
+    <string name="slide_3_desc">Menu has lots to explore.</string>
+
+    <string name="slide_4_title">Tap and enjoy</string>
+    <string name="slide_4_desc">Tickle your friends already available on Tickle</string>
+
+    <string name="slide_5_title">Create Tickler groups</string>
+    <string name="slide_5_desc">Create Tickler groups and enjoy the laughter riots</string>
+
+    <string name="slide_6_title">Search Tickler feature</string>
+    <string name="slide_6_desc">Get crackling along random ticklers with search Ticklers features</string>
+
+    <string name="slide_7_title">The name itself says</string>
+    <string name="slide_7_desc">Add sentence to Tickle list and Boast amongst your friend</string>
+
+    <string name="slide_0_title">Hello Tickler!</string>
+    <string name="slide_0_desc">Welcome to Tickle Chat</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="signed_out">google signout</string>
+    <string name="sign_out">google signout</string>
+    <string name="disconnect">disconnect</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+</resources>

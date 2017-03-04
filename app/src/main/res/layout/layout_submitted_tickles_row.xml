@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_vertical"
+              android:orientation="vertical">
+
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  android:orientation="horizontal">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/iv_tickle_image"
+            android:layout_width="@dimen/dimen_30"
+            android:layout_height="@dimen/dimen_30"
+            android:layout_margin="@dimen/dimen_10"
+            android:src="@drawable/ic_launcher"/>
+
+        <TextView
+            android:id="@+id/tv_tickle_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_10"
+            android:text="My tickles"/>
+
+    </LinearLayout>
+
+    <include layout="@layout/separator"/>
+
+
+</LinearLayout>

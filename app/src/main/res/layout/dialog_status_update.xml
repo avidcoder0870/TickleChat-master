@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/dialog_bg"
+              android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_status"
+        android:hint="Your status update"
+        android:layout_marginTop="@dimen/dimen_15"
+        style="@style/style_et"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_15"
+        >
+
+        <TextView
+            android:id="@+id/tvNegative"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dimen_15"
+            android:layout_toLeftOf="@+id/tvPositive"
+            android:background="@drawable/selector_button"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10"
+            android:text="Cancel"
+            android:textColor="@color/selector_text_color_button"
+            android:visibility="visible"/>
+
+        <TextView
+            android:id="@+id/tvPositive"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/selector_button"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="@dimen/dimen_10"
+            android:text="Ok"
+            android:textColor="@color/selector_text_color_button"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

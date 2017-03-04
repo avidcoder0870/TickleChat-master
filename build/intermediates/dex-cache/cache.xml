@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_1484e5c161d0cf8000cd6366d4cdc155c39204dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_d97e7184043fd0bccbf5628a29e7e2a15f62abef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_495b272f970ea7d8cc53bab8b688a9de1fd79429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_207042a8d43e1324d185ed53cc557e3ba8e7262b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_fdce88262289e7b6b1846b2bab5df743c96b7023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_559e0df034f639c521fa38aab9600e2d7f0f25ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_dda5f8613c94ad7ca9569f613a114851ec5daf7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f84d7f69747fd8805b917c0e63a5f1b3dbe7d0">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3c21712d83e0714be0ec1c90eed817159165979f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.0_50556fa208a87a1fd100198f1d7d450f74328207\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\2.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1efaa44baeef744bf4130ea1f1b6506113af91d9">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-2.0.2_96ca29fd377cc9f11bc956e5704500c5f41ba81f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_48fec4c712d5ee936e50272ccef4f94b436766f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_e321325df3228331e7214169ef6f36d86ce58544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_6a923f3f0c31dfff7de9fd1cbd1dcb64b294b3cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_f91460217113c09b4c83a3103fe1702ee3acfc06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_6885312a66965132c91b4ecc6d66d73fe58af591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_75b4dda86a02ddf6a0b52ee3a88e7c17c5fb7ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_1684f40ce97c7395abc8f5c784f9e8433f7b6b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_2246ecff62ae13c0fe566924965f00e3a9f94cc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_4d7687717d833442d0138e055db4f94b31065e09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_3b57b30120d48aaa634ecfc39088464993147651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_18d5f00573c45de79810449ee9f39de00323bf67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_d5af3eeedec9b2f14ae82814095d3a6394c3cc96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_2570efc22ceec827c7d3770b81fec9543b0a9aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.20.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.20.0_a1e9282479da2bf7cc0a7bb011a1641806ae952c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e6f055b1014e6530cfc8b2dc8fd291b0cb32dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_19a5db0ac243c09f1a36e7b2c94728341954bdd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\logging-interceptor\2.7.0\12d11f3344154b80b77733c6245da48e2dc10ef7\logging-interceptor-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12d11f3344154b80b77733c6245da48e2dc10ef7">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-2.7.0_ccc9881327c7608d46759b4f0c8e6c3815288641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_06c2d1614d3b2af52bb33c76ce31d0925f4bdb6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_4f46d73a23db8b842e7f493635f3620c9fabaa40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_8d33ec665536fdcdd13398d6ee67c0cd3b371d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_271dae67a4a505f7bbf3d2049fdeae10c0fd1c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_60279e03b129f1fdf03c92570d98da09cb476fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_34c005e3ce0b84a88535237528fd5975d300b8f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3311839102500dd0d67d6236a0cfb02e2a24e3b">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_559c3b5409310503dd5b4da59dd73c96b1a9dac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_bf06832f3cc2f625f6ad55d45d4c39b2c6a2f782\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_aa0be8d82d621b6f531c3074e6bfb0f389aa352f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_79f2e93f3255f8ea89471f786869f8ed9e47eba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_e1c07466cd2e9f67db8fcae60b9db9f7c9b1026d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_27c3ef8649d1579db7192767f0977293eb7c4d6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_cbf89aaf941f9c7eb5e67dec23cbcc8c7a9be689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_4709610a761bbf9fe9628b336ab67b9f2f376e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_f77cf8228d8c79c585fb38ad262bdac0a373399d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_21b6733908e05d68ebf0ba1c3c897c65e1ba74ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_ec7cd94127e801e67e326be5e625d2caee497dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_f6e0f27dc762878371f3c72d2fcbf9d8de03fa3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_eb683f64233053e533bb26a128a5758a7bce36f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_69564d0707a4a85fc6e58ad2cd4b6340891d5a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_119076ca6da333667bc39bd820fc7fa21753ea9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_db50e773c09dc67e44563bbae6fa469572696018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_7749bf45f1049db9dacd16cbe432585a99e48d69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_405488e41e1704d86c9f329b88fbbbaf24fe4853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_3ca763ed13ea3685c60ffe8ad78e51d9e46267a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_02f6c95d3d1ddfcae94b78bf516a677412a6319d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_2343b84ebc065a87eb0ff18f65261270f876546b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_339936e432b9964205a75554c70b07dae3b537e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_d2fca7d2a01e44f5bf6030850e609702ba1a4a9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_e9e2420267dfa5a3fa7e10fa8b58d41e938aa183\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_5ab5695e4336f04b58582678e8a970ef5237a5aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_b48bf8b65cceb13c811f8eec663d7afc25ce53c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_38a1db56ba83461f45f7e9ae8e14e3acee3ec187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.0\1477ec5caf8319ab4b51eb43553cd66aa86fdea5\okhttp-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.0_b4f0628ee158cad80f475e9350fcfe8cdc2049c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_e5ce165d2b284ce8065627f25a889bc6e87f0d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.2.3\baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.3_8bc637fcca1e0a3556ffc9576dbd2dded58abbcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_ac6632c1beb8fd524e855d1bf948b96ba81b6adc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_4c215db92a3f0fff62c8509393e5d632f829bb87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_c97319a45432f460e784dcd07a572416bfe5311e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.0_d13cf2360a62c968db3e4261d4290dfbc2d765eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.makeramen-roundedimageview-2.2.1_69739d11371d814b96c3d1bf2160b122fefadff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_23a5c622e3ad8b37576a2c9c5f148b51110e8014\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1f8974cd46d2eaaaba93e7d2750970708821690c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_569614e1401bcd7327d51b9b35dc78d5161f5f6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_48722eeae18e7e6a5fca4730882dca3a58c2774b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2be2333892ac0d21f81d145a792b36da220d5779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_03455277a205820aa590877b19f431589a99bf2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_6e69281b6dca486f9f4ced7226b5a6ab4e0535fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_6d456d1c55e4ce768a85d16e5a6d6e75948b1b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_2680f427dabe08e697f10475c1e253bba58b79fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_6824cc0d166578ad5fc8e3bc7ca9b36f64f17277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_8b06d9bb0650cb40f38246bd3eb1772a38fb9948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_40fbf25d1840c417b9fa5edbb76bc3f6a47ed068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_9d3f4ba58736efb0b07e9f8c4a8361d7bae08e65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_089293814d65e44bf24208dca4f5d4dc60deb524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_aa43f22298d331eb693bdea6aec4f89e1de3c9b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\fr.avianey.com.viewpagerindicator\library\2.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86f452c126cb92a79e1dcf08efec5404529b698e">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\fr.avianey.com.viewpagerindicator-library-2.4.1_9524599c5db1403fd032971ce3e750a622f1b906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_d505348cc401e1b1fdef139d6eab75c8ee008e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_aa9733d6ce877a3ce28eb3de1653fbd41800f382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_22cca47e5996518ad82d01e3011850380d2e113b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_31941cf8812a52527e42201fd9e9f01a7da706a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_f2f5c57f80f1c451b6a0038f771fa49f3e4c2fdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chels\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta2_8bd0a13f7804e58c4077cf1b502a19e011d97130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_e4a6d71b5ff946f4c43d66cc00b044e9287ddad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_2484a9231f4cce905234b17fb31876acd22258ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_06781821f5f10802152b6db5bbba64e5cfea02f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\appu resume\appu resume\TickleChat-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_ca488d5f54351a242872f3ca8d952337eb7cc094\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_item_1" android:title="Manage Ticklers"
+          app:showAsAction="withText" />
+    <item android:id="@+id/menu_item_2" android:title="Add Ticklers"
+          app:showAsAction="withText" />
+    <item android:id="@+id/menu_item_3" android:title="Update Group"
+          app:showAsAction="withText" />
+    <item android:id="@+id/menu_item_4" android:title="Exit Group"
+          app:showAsAction="withText" />
+</menu>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="fb_blue">#3b5998</color>
+
+    <color name="google_red">#d34836</color>
+
+    <color name="transparent">#00ffffff</color>
+
+    <color name="blue_grey_900">#263238</color>
+
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#66212121</color>
+    <color name="textColorTertiary">#99909090</color>
+
+    <color name="color_light_blue">#D5F8FF</color>
+
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="bg_color">#EEEEEE</color>
+
+    <color name = "divider_pink">#50EA4C89</color>
+
+    <color name = "border_edit">#AEAEAE</color>
+
+    <color name = "grey_alto">#D8D8D8</color>
+    <color name="white_trans_50">#50ffffff</color>
+
+    <color name="textColorSecondary_trans">#50000000</color>
+
+    <color name="textColorSecondary_trans_40">#40000000</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <color name="v2_light_pink">#fc88b0</color> <!--#fc88b0-->
+    <color name="v2_dark_pink">#fc55a0</color>
+    <color name="v2_light_grey">#9b9b9b</color>
+
+    <color name="v2_text_Color_Primary">#000000</color>
+    <color name="v2_text_Color_Secondary">#4a4a4a</color>
+    <color name="v2_text_Color_Tertiary">#9b9b9b</color>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+    <color name="bg_screen5">#F56755</color>
+    <color name="bg_screen6">#525E74</color>
+    <color name="bg_screen7">#BAD844</color>
+    <color name="bg_screen8">#DC2654</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <color name="dot_dark_screen5">#c45244</color>
+    <color name="dot_dark_screen6">#414b5c</color>
+    <color name="dot_dark_screen7">#94ac36</color>
+    <color name="dot_dark_screen8">#b01e43</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="dot_light_screen5">#f78576</color>
+    <color name="dot_light_screen6">#858e9d</color>
+    <color name="dot_light_screen7">#cee37c</color>
+    <color name="dot_light_screen8">#e66787</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+        <item>@color/dot_light_screen6</item>
+        <item>@color/dot_light_screen7</item>
+        <item>@color/dot_light_screen8</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+        <item>@color/dot_dark_screen6</item>
+        <item>@color/dot_dark_screen7</item>
+        <item>@color/dot_dark_screen8</item>
+    </array>
+
+</resources>

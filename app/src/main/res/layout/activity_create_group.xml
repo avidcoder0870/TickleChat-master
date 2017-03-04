@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_marginTop="@dimen/dimen_10"
+                  android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_weight="4"
+        android:gravity="center"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/groupIcon"
+            android:src="@drawable/com_facebook_profile_picture_blank_square" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_weight="6"
+        android:gravity="center_horizontal"
+        android:layout_height="match_parent">
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:ems="10"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_10"
+            android:layout_marginTop="@dimen/dimen_30"
+            android:gravity="left|center_vertical"
+            android:background="@drawable/drawable_round_edit_view"
+            android:id="@+id/groupname"
+            android:hint="Enter Group Name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_10"
+            android:layout_marginBottom="@dimen/dimen_10"
+            android:text="Only 15 member can be added in a group." />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Create Group"
+            android:textColor="@color/selector_text_color_button"
+            android:padding="@dimen/dimen_10"
+            android:layout_margin="@dimen/dimen_10"
+            android:textSize="@dimen/txt_size_14"
+            android:background="@drawable/selector_button"
+            android:id="@+id/creategroup" />
+    </LinearLayout>
+</LinearLayout>
+    </ScrollView>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "561310604781",
+    "firebase_url": "https://ticklechat-891ec.firebaseio.com",
+    "project_id": "ticklechat-891ec",
+    "storage_bucket": "ticklechat-891ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561310604781:android:2e679928a8b22c94",
+        "android_client_info": {
+          "package_name": "com.techpro.chat.ticklechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561310604781-mb1g5i7ijd16aa7mci3o58vptljfnucv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Cr48LUOy4BYeLeIId_RVXVCl1nJ2K6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

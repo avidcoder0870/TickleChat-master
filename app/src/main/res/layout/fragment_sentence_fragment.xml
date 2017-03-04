@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_sentance_container">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_margin="@dimen/dimen_15"
+                android:background="@drawable/drawable_round_4dp_gray"
+                android:orientation="vertical"
+                android:padding="@dimen/dimen_15">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/dimen_10"
+                    android:text="Your Sentence status"
+                    android:textColor="@color/v2_text_Color_Secondary"/>
+
+                <include layout="@layout/separator"/>
+
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/rv_select_sentence"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/dimen_10" />
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:id="@+id/ll_sentance_container"
+                  android:layout_alignParentBottom="true"
+                  android:layout_height="wrap_content">
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dimen_10"
+            android:background="@drawable/drawable_round_edit_view">
+
+            <EditText
+                android:id="@+id/tv_add_new_tickle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_toLeftOf="@+id/tv_btn_save"
+                android:hint="Enter messages that you want to add."
+                android:inputType="textMultiLine"
+                android:padding="@dimen/dimen_15"
+                android:textSize="@dimen/txt_size_15"/>
+
+            <TextView
+                android:id="@+id/tv_btn_save"
+                android:layout_width="100dp"
+                android:layout_height="32dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/dimen_10"
+                android:layout_marginRight="@dimen/dimen_10"
+                android:background="@drawable/selector_button"
+                android:gravity="center"
+                android:text="Save"
+                android:textSize="@dimen/txt_size_15"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:background="@drawable/tickle_bg"
+        android:layout_height="match_parent" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager_signup"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+
+    <com.viewpagerindicator.CirclePageIndicator
+        android:id="@+id/pageIndicator"
+        app:fillColor="@color/fb_blue"
+        android:layout_width="wrap_content"
+        app:radius="8dp"
+        android:padding="@dimen/dimen_10"
+        android:layout_above="@+id/btnSignup"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content" />
+
+
+    <!--<com.facebook.login.widget.LoginButton-->
+        <!--android:chatUserList="@+chatUserList/login_button"-->
+        <!--xmlns:facebook="http://schemas.android.com/apk/res-auto"-->
+        <!--facebook:com_facebook_login_text="INSTANT FACEBOOK CONNECT"-->
+        <!--facebook:com_facebook_logout_text="INSTANT FACEBOOK CONNECT"-->
+        <!--android:layout_width="265dp"-->
+
+        <!--android:layout_above="@+chatUserID/btnGoogle"-->
+        <!--android:layout_height="37.5dp"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:layout_marginTop="30dp"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:padding="@dimen/dimen_10"-->
+        <!--style="@style/FacebookLoginButton"/>-->
+
+    <!--<com.facebook.login.widget.LoginButton
+        android:chatUserList="@+chatUserList/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_10"
+
+        android:background="@color/bg_color"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+chatUserList/btnGoogle"
+        android:layout_marginBottom="@dimen/dimen_10"
+         />-->
+
+
+
+
+    <!--<com.google.android.gms.common.SignInButton-->
+        <!--android:chatUserList="@+chatUserList/btnGoogle"-->
+        <!--android:layout_width="265dp"-->
+        <!--android:layout_height="37.5dp"-->
+        <!--android:layout_above="@+chatUserID/btnSignup"-->
+
+        <!--android:layout_marginTop="@dimen/dimen_10"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="@dimen/dimen_10" />-->
+
+
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="265dp"
+        android:layout_height="37.5dp"
+        android:alpha=".7"
+        android:layout_above="@+id/tvTermsAndConditions"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/group_tickling"
+        android:textColor="@color/bg_color"
+        android:text="Login" />
+
+
+    <TextView
+        android:id="@+id/tvTermsAndConditions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="middle"
+        android:layout_marginTop="@dimen/dimen_20"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:visibility="visible"
+        android:shadowColor="@color/textColorTertiary"
+        android:shadowDx="1"
+        android:layout_centerHorizontal="true"
+        android:shadowDy="1"
+        android:shadowRadius="2"
+        android:layout_marginBottom="@dimen/dimen_20"
+        android:text="@string/terms_policies"
+        android:textColor="@color/white"
+        android:textSize="@dimen/txt_size_15"/>
+
+    <Button
+        android:id="@+id/btnSignup"
+        android:layout_width="265dp"
+        android:layout_height="37.5dp"
+        android:alpha=".7"
+        android:background="@drawable/group_tickling"
+        android:textColor="@color/bg_color"
+        android:text="Signup"
+        android:layout_above="@+id/btnLogin"
+        android:layout_alignStart="@+id/btnLogin" />
+
+</RelativeLayout>

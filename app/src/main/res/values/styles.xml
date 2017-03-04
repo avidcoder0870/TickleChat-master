@@ -1,0 +1,62 @@
+
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="colorControlNormal">@android:color/transparent</item>
+        <item name="colorControlActivated">@android:color/transparent</item>
+        <item name="colorControlHighlight">@android:color/transparent</item>
+        <item name="android:editTextColor">@color/border_edit</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_back_white</item>
+        <item name="android:listDivider">@color/divider_pink</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="FacebookLoginButton">
+        <item name="android:textSize">13.5sp</item>
+        <item name="android:background">@drawable/drawable_big_rounded_background</item>
+        <item name="android:layout_marginTop">@dimen/dimen_10</item>
+        <item name="android:padding">@dimen/dimen_10</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+    <style name="social_tool_views">
+        <item name="android:drawablePadding">@dimen/dimen_5</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#bdbdbd</item>
+    </style>
+
+    <style name="style_et">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/dimen_15</item>
+        <item name="android:layout_marginRight">@dimen/dimen_15</item>
+        <item name="android:layout_marginTop">@dimen/dimen_5</item>
+        <item name="android:layout_marginBottom">@dimen/dimen_5</item>
+        <item name="android:padding">@dimen/dimen_10</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColorHint">#bdbdbd</item>
+        <item name="android:background">@drawable/drawable_round_edit_view</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <include layout="@layout/layout_toolbar"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_color"
+        >
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/message_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/ll_tickle_msg_container"
+            android:layout_above="@+id/ll_tickle_msg_container"
+            android:layout_alignParentTop="true"
+            />
+
+
+        <LinearLayout
+            android:id="@+id/ll_tickle_msg_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical">
+        <ImageView
+            android:id="@+id/iv_slide_up_down"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/shape_circle_blue"
+            android:src="@drawable/down_white_arrow_icon"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/text_list"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+
+            />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

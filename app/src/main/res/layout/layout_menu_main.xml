@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:padding="@dimen/dimen_10"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/ivMenuItemIcon"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginRight="@dimen/dimen_10"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/tickle_logo"/>
+
+    <LinearLayout
+
+        android:id="@+id/llMenuTitleContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/txt_size_normal"
+        android:text=""
+
+        android:id="@+id/tvMenuItemName"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/dimen_10"
+        android:paddingRight="@dimen/dimen_10"
+        android:paddingTop="@dimen/dimen_5"
+        android:paddingBottom="@dimen/dimen_5"
+        android:textColor="@color/textColorPrimary"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/txt_size_tiny"
+        android:hint=""
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:id="@+id/tvMenuItemSubTitle"
+        android:paddingLeft="@dimen/dimen_10"
+
+        android:textColor="@color/textColorPrimary"
+        />
+
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/txt_size_tiny"
+        android:layout_marginLeft="@dimen/dimen_10"
+        android:layout_marginRight="@dimen/dimen_10"
+        android:visibility="gone"
+        android:layout_gravity="top"
+        android:text="new"
+        android:id="@+id/tvMenuItemAlert"
+        android:textColor="@color/colorPrimary"
+        />
+
+</LinearLayout>
